@@ -1,0 +1,6 @@
+{
+    "python.defaultInterpreterPath": "/Users/ludovicekalle/Desktop/agriagent/.venv/bin/python",
+    "pylint.interpreter": [
+        "/Users/ludovicekalle/Desktop/agriagent/.venv/bin/pylint"
+    ]
+}
